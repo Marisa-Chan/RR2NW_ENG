@@ -1,0 +1,63 @@
+[Root]
+ActionsNum=1
+RepeatsNum=1
+Action1=PlayFlight,Flight1,NONE,8
+Sound1=wav.Briefing
+MessageBkColor=0,0,0
+
+[Flight1.0]
+Pos  =1434.619,47.470, -2213.069
+Angle=-83.106,4.439, 0.183
+Time =3.836
+Delay=0.000
+Text =Садитесь на боевую черепаху.
+
+[Flight1.1]
+Pos  =1436.335,53.299, -2195.105
+Angle=-82.710,-15.664, -0.061
+Time =3.365
+Delay=0.000
+Text =
+
+[Flight1.2]
+Pos  =1464.775,67.987, -2200.113
+Angle=-55.796,2.702, 18.027
+Time =4.936
+Delay=0.000
+Text =Вам следует уничтожить конвой\nгорожан, следующий в Landburg.
+
+[Flight1.3]
+Pos  =1474.435,73.151, -2277.072
+Angle=24.086,9.355, 4.685
+Time =3.550
+Delay=0.000
+Text =
+
+[Flight1.4]
+Pos  =1442.658,83.775, -2350.230
+Angle=14.348,0.977, -5.253
+Time =4.128
+Delay=0.000
+Text =Все корабли должны быть потоплены.
+TextDelay=8
+
+[Flight1.5]
+Pos  =1399.367,86.475, -2435.813
+Angle=32.738,0.835, 0.786
+Time =4.957
+Delay=0.000
+Text =
+
+[Flight1.6]
+Pos  =1361.812,67.651, -2494.804
+Angle=30.111,0.834, -1.384
+Time =0.300
+Delay=0.300
+Text =
+
+[Flight1.7]
+Pos  =1361.812,67.651, -2494.804
+Angle=30.111,0.834, -1.384
+Time =0.000
+Delay=0.000
+Text =

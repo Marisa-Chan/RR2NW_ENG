@@ -1,0 +1,56 @@
+[Root]
+ActionsNum=1
+RepeatsNum=1
+Action1=PlayFlight,Flight1,NONE,7
+Sound1=wav.Briefing
+MessageBkColor=0,0,0
+
+[Flight1.0]
+Pos  =1485.790,74.046, -2182.346
+Angle=24.841,-30.559, 0.000
+Time =7.961
+Delay=0.000
+Text =Садитесь на стрекозу и отправляйтесь\nза проводником
+
+[Flight1.1]
+Pos  =1467.822,59.437, -2234.049
+Angle=-11.532,9.543, -5.554
+Time =3.104
+Delay=0.000
+Text =
+
+[Flight1.2]
+Pos  =1479.927,69.987, -2296.162
+Angle=-11.532,9.545, -0.001
+Time =4.227
+Delay=0.000
+Text =Вам предстоит уничтожить аэродром\nQuakevill
+
+[Flight1.3]
+Pos  =1510.492,111.251, -2408.900
+Angle=-21.080,34.796, -0.315
+Time =3.685
+Delay=0.000
+Text =
+
+[Flight1.4]
+Pos  =1546.006,154.690, -2502.538
+Angle=-6.460,21.280, 11.130
+Time =3.895
+Delay=0.000
+Text =Это место вашего боя
+
+[Flight1.5]
+Pos  =1547.442,172.329, -2548.116
+Angle=24.679,3.124, 0.148
+Time =5.779
+Delay=0.000
+Text = 
+
+[Flight1.6]
+Pos  =1564.874,170.055, -2510.179
+Angle=24.679,3.119, 0.000
+Time =0.030
+Delay=0.000
+Text =
+

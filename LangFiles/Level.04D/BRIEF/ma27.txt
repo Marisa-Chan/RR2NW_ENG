@@ -1,0 +1,76 @@
+[Root]
+ActionsNum=1
+RepeatsNum=1
+Action1=PlayFlight,Flight1,CRYSTAL,10
+Sound1=DummyBriefing,0,0
+
+[Flight1.0]
+Pos  =2369.254,69.385, -2596.349
+Angle=0.000,0.000, 0.000
+Time =1.168
+Delay=0.000
+Text =
+
+[Flight1.1]
+Pos  =2369.254,69.385, -2583.452
+Angle=0.000,0.000, 0.000
+Time =1.043
+Delay=0.000
+Text =
+
+[Flight1.2]
+Pos  =2369.254,69.385, -2572.669
+Angle=0.000,0.000, 0.000
+Time =4.752
+Delay=0.000
+Text =Садитесь в танк.
+
+[Flight1.3]
+Pos  =2381.651,75.222, -2539.985
+Angle=-11.130,0.000, -3.464
+Time =2.788
+Delay=0.000
+Text =Вы должны защитить наш конвой.
+
+[Flight1.4]
+Pos  =2362.659,83.461, -2558.909
+Angle=67.385,0.000, 15.852
+Time =2.760
+Delay=0.000
+Text =
+
+[Flight1.5]
+Pos  =2311.658,84.352, -2576.560
+Angle=83.704,0.000, 9.587
+Time =2.761
+Delay=0.000
+Text =
+
+[Flight1.6]
+Pos  =2230.221,114.367, -2587.523
+Angle=54.362,-5.768, -9.851
+Time =9.896
+Delay=0.000
+Text =Толкучая машинка\nдолжна достигнуть Algoneva.
+TextDelay=10
+
+[Flight1.7]
+Pos  =2127.709,114.340, -2736.440
+Angle=90.865,-25.838, -12.479
+Time =5.090
+Delay=0.000
+Text =
+
+[Flight1.8]
+Pos  =2136.551,118.570, -2741.076
+Angle=95.618,-25.760, 0.507
+Time =0.300
+Delay=0.000
+Text =
+
+[Flight1.9]
+Pos  =2136.551,118.570, -2741.076
+Angle=95.618,-25.760, 0.507
+Time =0.000
+Delay=0.000
+Text =
