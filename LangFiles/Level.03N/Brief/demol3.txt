@@ -28,7 +28,7 @@ Text =
 
 [Flic1]
 Name =FLIC/intro1.flc
-Text =Дитя мое, настало время поговорить о многом
+Text =My child, the time has come to talk about many things
 Delay=10
 
 [Flight2.0]
@@ -36,7 +36,7 @@ Pos  =2593.001,63.250, -2598.357
 Angle=93.710,-0.165, -2.420
 Time =2.000
 Delay=0.000
-Text =Я стар и слаб, ты молод, силен и\nуверен в себе
+Text =I am old and weak, you are young,\nstrong and self-confident
 
 [Flight2.1]
 Pos  =2594.999,63.251, -2597.241
@@ -50,7 +50,7 @@ Pos  =2593.858,63.250, -2590.236
 Angle=-149.706,-0.093, 0.218
 Time =2.000
 Delay=0.000
-Text =Война закончилась, но это не принесло\nнам облегчения. 
+Text =The war is over, but it hasn't brought\nus any relief.
 
 [Flight2.3]
 Pos  =2598.213,63.250, -2584.779
@@ -64,7 +64,7 @@ Pos  =2607.565,63.250, -2583.783
 Angle=-84.352,-0.080, 0.040
 Time =2.000
 Delay=0.000
-Text =Те, кто выжил после ядерной\nбомбардировки либо цепляются за жизнь\nнемощными руками
+Text =Those who survived a nuclear \nbombing, they cling to life \nwith weak hands
 
 [Flight2.5]
 Pos  =2600.711,63.250, -2581.717
@@ -78,7 +78,7 @@ Pos  =2579.344,63.257, -2582.381
 Angle=-95.359,-0.079, 0.000
 Time =4.000
 Delay=0.000
-Text =либо больше ни на что не надеясь\nпрожигают жизнь в разврате и мародерстве
+Text =or not hoping for anything else, \nburn their lives in debauchery and looting
 
 [Flight2.7]
 Pos  =2564.694,63.266, -2580.473
@@ -89,7 +89,7 @@ Text =
 
 [Flic2]
 Name =FLIC/intro2.flc
-Text =Но есть надежда. Древние легенды\nо Великой Империи правдивы !
+Text =But there is hope. Ancient legends\nabout the Great Empire are true!
 Delay=10
 
 [Flight6.0]
@@ -97,7 +97,7 @@ Pos  =2127.659,146.860, -2572.589
 Angle=97.558,26.109, 0.000
 Time =2.000
 Delay=0.000
-Text =Давным давно, много веков назад\nлюди жили в мире и согласии
+Text =A long time ago, many centuries\nago, people lived in peace and harmony
 
 [Flight6.1]
 Pos  =2011.785,150.759, -2557.215
@@ -111,7 +111,7 @@ Pos  =1908.103,187.277, -2546.947
 Angle=92.289,12.635, -0.005
 Time =2.000
 Delay=0.000
-Text =И пользовались удивительным изобретением -\nмежпространственными порталами. 
+Text =And they used an amazing invention - \ninterdimensional portals.
 
 [Flight6.3]
 Pos  =1838.946,184.777, -2554.409
@@ -125,7 +125,7 @@ Pos  =1786.727,131.959, -2567.894
 Angle=71.298,-45.805, 0.053
 Time =2.000
 Delay=0.000
-Text =Порталы объединяли планеты великой,\nныне забытой империи.
+Text =Portals united the planets of a great,\nnow forgotten empire.
  
 [Flight6.5]
 Pos  =1773.488,104.298, -2591.463
@@ -139,7 +139,7 @@ Pos  =1777.962,87.764, -2610.508
 Angle=6.807,-13.719, 0.075
 Time =2.000
 Delay=0.000
-Text =Но на смену временам порядка\nпришли времена хаоса.
+Text =But the times of order were\nreplaced by times of chaos.
 
 [Flight6.7]
 Pos  =1775.338,84.500, -2646.347
@@ -153,7 +153,7 @@ Pos  =1777.730,84.501, -2653.514
 Angle=-64.295,13.940, -3.435
 Time =2.500
 Delay=0.000
-Text =Мудрый император закрыл порталы,\nне допустив мятежников к планете Власти.
+Text =The wise emperor closed the portals, \npreventing the rebels from entering the planet of Power.
 
 [Flight6.9]
 Pos  =1790.734,100.428, -2658.569
@@ -167,7 +167,7 @@ Pos  =1832.772,130.576, -2653.601
 Angle=-140.051,30.228, -8.401
 Time =2.500
 Delay=0.000
-Text =Император использовал собственный\nгенокод как код доступа к порталам.
+Text =The Emperor used his own \ngenocode as the access code for the portals.
 
 [Flight6.11]
 Pos  =1849.515,180.467, -2556.370
@@ -185,7 +185,7 @@ Text =
 
 [Flic4]
 Name =FLIC/intro2.flc
-Text =С тех пор порталами никто не пользовался...
+Text =Since then, no one has used portals...
 Delay=10
 
 
@@ -194,14 +194,14 @@ Pos  =2728.352,67.585, -2773.739
 Angle=144.937,-2.879, 0.000
 Time =5.000
 Delay=0.000
-Text =Планеты империи погрузились в хаос\nи варварство, золотой век был забыт.
+Text =The planets of the empire plunged into\nchaos and barbarism, the golden age was forgotten.
 
 [Flight7.1]
 Pos  =2745.352,68.872, -2793.057
 Angle=144.937,-2.879, 0.413
 Time =5.000
 Delay=0.000
-Text =И теперь перейти из мира в мир могли\nбы лишь потомки императора.
+Text =And now only the descendants of the\nemperor could pass from world to world.
 
 [Flight7.2]
 Pos  =2759.028,70.058, -2812.277
@@ -219,7 +219,7 @@ Text =
 
 [Flic3]
 Name =FLIC/intro3.flc
-Text =Я открою тебе нашу семейную тайну.\nТы наследник династии !
+Text =I will tell you our family secret. \nYou are the heir to a dynasty!
 Delay=10
 
 [Flight8.0]
@@ -227,7 +227,7 @@ Pos  =2588.833,104.681, -2683.416
 Angle=68.069,45.111, 4.204
 Time =2.000
 Delay=0.000
-Text =Ты в силах оживить порталы\nи воцариться над галактикой !
+Text =You have the power to revive\nthe portals and reign over the galaxy!
 
 [Flight8.1]
 Pos  =2591.801,96.082, -2670.476
@@ -241,7 +241,7 @@ Pos  =2548.289,88.046, -2642.908
 Angle=105.248,-17.516, -0.071
 Time =2.000
 Delay=0.000
-Text =Но порталы разрушены, за многие века\nэнергетические кристаллы\nпитающие порталы энергией
+Text =But the portals are destroyed,\nfor many centuries the energy crystals that\ngleam the portals with energy
 
 [Flight8.3]
 Pos  =2492.619,85.640, -2626.619
@@ -255,7 +255,7 @@ Pos  =2460.379,83.776, -2609.091
 Angle=-2.636,-23.639, 2.385
 Time =2.000
 Delay=0.000
-Text =были расхищены из-за их чудесных свойств\nДля того, чтобы портал заработал\nих нужно собрать и установить на место
+Text =have been plundered because of their miraculous\nproperties. In order for the portal to work,\nthey need to be assembled and installed in place
 
 [Flight8.5]
 Pos  =2439.485,82.832, -2614.948
@@ -276,7 +276,7 @@ Pos  =2453.448,74.487, -2659.268
 Angle=-173.450,-13.325, 1.605
 Time =2.000
 Delay=0.000
-Text =Это и есть твоя задача.\nТы должен дойти до планеты власти\nи вернуть трон !
+Text =This is your task. You must\nreach the planet of power and\nreturn the throne!
 [Flight8.8]
 Pos  =2470.892,73.870, -2655.787
 Angle=150.108,-11.637, 0.141
@@ -289,7 +289,7 @@ Pos  =2480.794,73.307, -2635.868
 Angle=89.645,-10.000, -1.911
 Time =2.000
 Delay=0.000
-Text =А тот обелиск, у которого\nты так любил играть в детстве\nи есть портал
+Text =And that obelisk you loved\nto play with as a child\nis a portal
 
 [Flight8.10]
 Pos  =2475.762,73.017, -2618.837
@@ -303,7 +303,7 @@ Pos  =2454.198,72.348, -2618.904
 Angle=-31.731,-6.452, 0.113
 Time =2.000
 Delay=0.000
-Text =Мне немного осталось, но вера\nв будущее укрепляет меня
+Text =I don't have much left, but\nfaith in the future strengthens me
 
 [Flight8.12]
 Pos  =2443.886,69.227, -2631.125
@@ -317,7 +317,7 @@ Pos  =2448.444,68.967, -2646.898
 Angle=-144.028,-7.258, -2.687
 Time =2.000
 Delay=0.000
-Text =Иди, сражайся, и будь справедливым владыкой !
+Text =Go, fight,\nand be a just ruler!
 
 [Flight8.14]
 Pos  =2467.236,68.253, -2640.304

@@ -10,7 +10,7 @@ Pos  =2741.963,65.725, -2637.189
 Angle=-88.696,-4.324, -0.001
 Time =4.354
 Delay=0.000
-Text =На святое дело идешь - \nтоварища выручать
+Text =You go to a holy cause -\nhelp out a comrade
 TextDelay=6
 
 [Flight1.1]
@@ -25,7 +25,7 @@ Pos  =2727.864,66.440, -2633.588
 Angle=128.620,3.296, -6.322
 Time =5.712
 Delay=0.000
-Text =Лысого от ментов отмазать надо\nпрокурор на бабки падок 
+Text =We will save the Bald from the cops\n needs money 
 #В Gibloe Mesto\nбыл красивый музей.
         
 [Flight1.3]
@@ -41,7 +41,7 @@ Pos  =2630.964,84.398, -2640.221
 Angle=-1.740,-3.266, -18.522
 Time =3.173
 Delay=0.000
-Text =Короче, будем музей брать в\nГиблом Месте
+Text =In short, we will take the museum in the \n Gibloe Mesto
 
 [Flight1.5]
 Pos  =2631.937,85.438, -2716.934
@@ -70,7 +70,7 @@ Pos  =2783.991,86.591, -2851.520
 Angle=-31.034,-1.161, 1.661
 Time =5.851
 Delay=0.000
-Text =Есть там один экспонатик,\nкамешек красивенький
+Text =There is one exhibit there,\n a pretty pebble
 #Однажды в музей пришла война и все\nзабрала. В музее ничего не осталось.
 
 [Flight1.9]
@@ -86,7 +86,7 @@ Pos  =2742.222,120.282, -3116.125
 Angle=55.881,-1.382, 5.220
 Time =1.950
 Delay=0.000
-Text =Вот его и заберем.
+Text =Here we will take him.
 
 [Flight1.11]
 Pos  =2671.223,129.553, -3161.132
@@ -123,7 +123,7 @@ Pos  =2508.063,161.069, -3521.932
 Angle=-0.917,1.912, 0.000
 Time =3.172
 Delay=0.000
-Text =На дело с тобой\nЧервонец пойдет
+Text =Chervonets will go to\nbusiness with you
 
 [Flight1.16]
 Pos  =2509.663,166.818, -3621.896
@@ -145,7 +145,7 @@ Pos  =2525.970,156.973, -3754.823
 Angle=-66.529,-2.833, -2.399
 Time =12.241
 Delay=0.000
-Text =Вот он этот музей
+Text =Here is this museum
 #Перед вами расположен музей,\nиз которого Вам следует выкрасть\nпрекрасный камень.
 TextDelay=10
 

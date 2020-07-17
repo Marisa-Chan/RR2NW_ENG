@@ -10,42 +10,42 @@ Pos  =2764.160,78.093, -2662.104
 Angle=126.328,-13.682, 0.000
 Time =5.918
 Delay=0.000
-Text =Садись в джип и канай по-новой\nв Salochki Games
+Text =Get into the jeep and get out \nto Salochki Games again
 
 [Flight1.1]
 Pos  =2745.482,77.525, -2648.370
 Angle=126.328,4.953, 0.000
 Time =6.490
 Delay=0.000
-Text =Раз ты такой крутой, срубишся\nс роботами.
+Text =Since you're so tough,\ngo down with the robots.
 
 [Flight1.2]
 Pos  =2688.943,83.671, -2660.191
 Angle=35.042,11.026, 13.393
 Time =5.127
 Delay=0.000
-Text =Они уже замочили многих\nтипа крутых на этой арене. 
+Text =They've already smash many of\nthe coolest types in this arena.
 
 [Flight1.3]
 Pos  =2669.793,89.365, -2720.359
 Angle=2.610,3.263, -7.717
 Time =4.086
 Delay=0.000
-Text =Им же это в кайф -\nчеловечка то грохнуть !
+Text =They are in a thrill -\nto bang the little man!
 
 [Flight1.4]
 Pos  =2693.963,91.683, -2755.284
 Angle=-83.235,1.722, -1.756
 Time =5.327
 Delay=0.000
-Text =Короче, вернешься на своих\nдвоих - будешь в авторитете.
+Text =In short, if you come back on foot,\n you will be in authority.
 
 [Flight1.5]
 Pos  =2775.872,101.717, -2756.651
 Angle=-91.897,12.037, -0.001
 Time =5.849
 Delay=0.000
-Text =Давай вали, там тебя\nжелезяки ждут.
+Text =Get out, the pieces of iron are waiting for you there.
 
 [Flight1.6]
 Pos  =2915.079,111.400, -2751.083

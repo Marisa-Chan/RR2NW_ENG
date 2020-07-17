@@ -10,7 +10,7 @@ Pos  =2737.244,68.926, -2634.739
 Angle=-97.080,-4.606, 0.372
 Time =3.859
 Delay=0.000
-Text =Садись в джип, тут один козел стрелу\nзабил в Domobabovo Airport
+Text =Get into the jeep, then one goat\nshot an gang hit in Domobabovo Airport
 TextDelay=6
 
 [Flight1.1]
@@ -18,7 +18,7 @@ Pos  =2725.924,66.780, -2633.730
 Angle=-112.848,1.335, -0.538
 Time =3.233
 Delay=0.000
-Text =Он типа нам самолеты заброшенные толкнуть пытается\nда нас за лохов держит
+Text =He's like trying to push abandoned\nplanes to us, and keeps us for suckers
 
 [Flight1.2]
 Pos  =2723.980,66.140, -2631.552
@@ -32,7 +32,7 @@ Pos  =2697.125,76.830, -2620.313
 Angle=86.892,0.431, -14.222
 Time =4.353
 Delay=0.000
-Text =Короче, заказываю его тебе на ужин\nв собственном соку.
+Text =In short, I order it for you \nfor dinner in its own juice.
 
 [Flight1.4]
 Pos  =2631.373,88.917, -2650.634
@@ -46,7 +46,7 @@ Pos  =2628.058,89.702, -2677.444
 Angle=1.413,0.271, -5.716
 Time =2.330
 Delay=0.000
-Text =Товар его мазовый, не повреди.
+Text =His goods are dough, do not damage.
 
 [Flight1.6]
 Pos  =2629.716,93.892, -2744.741
@@ -67,7 +67,7 @@ Pos  =2776.057,98.982, -2852.154
 Angle=-33.958,0.136, 6.782
 Time =1.730
 Delay=0.000
-Text =Вокруг аэродрома его гаврики ходят,\nпореши их всех
+Text =Around the airfield, his buttheads walk, slay them all
 
 [Flight1.9]
 Pos  =2859.247,106.204, -2958.848
@@ -88,7 +88,7 @@ Pos  =3006.841,104.469, -3122.464
 Angle=-34.595,2.727, 4.814
 Time =2.020
 Delay=0.000
-Text =Козел этот заводы держит, где эти гаврики плодятся
+Text =This goat keeps the factories\nwhere these buttheads breed
 
 [Flight1.12]
 Pos  =3065.091,109.169, -3222.062
@@ -109,7 +109,7 @@ Pos  =3143.942,79.100, -3390.590
 Angle=-40.803,0.710, -10.103
 Time =3.214
 Delay=0.000
-Text =Они заколбасят любого, кто наедет на их босса
+Text =They will slap anyone who runs into their boss
 
 [Flight1.15]
 Pos  =3221.254,115.948, -3480.110
@@ -123,7 +123,7 @@ Pos  =3272.024,138.960, -3544.514
 Angle=-19.958,-12.081, 3.116
 Time =2.004
 Delay=0.000
-Text =Короче, ну ты понял.\nГрохни всех гавриков, и забери товар
+Text =In short, you understand.\nBang all the buttheads and take the goods
 
 [Flight1.17]
 Pos  =3295.217,149.968, -3603.374
@@ -179,7 +179,7 @@ Pos  =3905.442,175.111, -3938.223
 Angle=-93.547,-4.934, 3.039
 Time =2.691
 Delay=0.000
-Text =В Domobabovo Airport c тобой Колян поедет\nезжай за ним, он за базар отвечает
+Text =Kolyan will go to Domobabovo Airport with you,\ngo after him, he is responsible for his mouth
 
 [Flight1.25]
 Pos  =4043.662,183.328, -3931.017

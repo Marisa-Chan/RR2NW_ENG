@@ -18,7 +18,7 @@ Pos  =2728.435,68.350, -2629.803
 Angle=-66.462,-8.017, 0.184
 Time =2.000
 Delay=0.000
-Text =Сейчас тебе предстоит принять\nучастие в гонке на выживание.
+Text =Now you have to take part in\nthe race for survival.
 
 [Flight1.2]
 Pos  =2721.643,69.222, -2626.617
@@ -53,7 +53,7 @@ Pos  =2789.836,76.374, -2570.850
 Angle=-151.258,-28.238, 1.045
 Time =2.000
 Delay=0.000
-Text =Старт будет дан с этой площадки.
+Text =The start will be given from this site.
 
 [Flight1.7]
 Pos  =2826.161,74.923, -2569.893
@@ -74,7 +74,7 @@ Pos  =2871.899,82.287, -2482.835
 Angle=87.106,-17.773, 2.870
 Time =1.000
 Delay=0.000
-Text =Гонка начнется как только\nоткроется выход.
+Text =The race will start as soon\nas the exit opens.
 
 [Flight1.10]
 Pos  =2870.583,82.429, -2456.804
@@ -116,7 +116,7 @@ Pos  =2879.170,70.080, -2304.704
 Angle=-24.423,-0.867, 3.791
 Time =2.000
 Delay=0.000
-Text =Трасса заканчивается\nна одной из наших\nразвлекательных арен.
+Text =The track ends at one\nof our entertainment arenas.
 
 [Flight2.3]
 Pos  =2867.751,67.745, -2322.701
@@ -144,7 +144,7 @@ Pos  =2763.752,69.967, -2330.266
 Angle=89.024,8.780, -0.087
 Time =2.000
 Delay=0.000
-Text =На этом эшафоте тебя будет ждать\nглавный приз гонок - Большой Кристалл.
+Text =On this scaffold you will find the\nmain race prize - the Big Crystal.
 
 [Flight2.7]
 Pos  =2744.320,76.906, -2305.862

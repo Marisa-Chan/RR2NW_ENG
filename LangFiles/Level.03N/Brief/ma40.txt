@@ -10,7 +10,7 @@ Pos  =2741.928,66.339, -2636.746
 Angle=-93.039,0.038, -0.636
 Time =3.900
 Delay=0.000
-Text =Пацан, я смотрю у тебя новый\nджип за два лимона
+Text =Boy, I'm looking at you new\njeep for two lemons
 TextDelay=6
 
 [Flight1.1]
@@ -25,7 +25,7 @@ Pos  =2725.181,66.329, -2632.688
 Angle=-176.940,-0.185, -5.873
 Time =4.295
 Delay=0.000
-Text =Короче, надо поставить хозяина\nзавода в Robotron-3\nна бабки
+Text =In short, you need to put the owner\nof the plant in Robotron-3 for money
 TextDelay=10
 
 [Flight1.3]
@@ -40,7 +40,7 @@ Pos  =2638.764,80.157, -2627.916
 Angle=21.080,-0.061, -22.974
 Time =3.831
 Delay=0.000
-Text =Этот завод был построен\nочень давно, еще до войны.
+Text =This plant was built a long\ntime ago, even before the war.
 
 [Flight1.5]
 Pos  =2625.038,87.012, -2682.481
@@ -54,7 +54,7 @@ Pos  =2644.237,84.461, -2769.191
 Angle=-88.035,-1.684, -18.508
 Time =3.515
 Delay=0.000
-Text =Он не башляет своей крыше\nнадо ему рога надставить
+Text =He does not bash his roof,\nhe needs to give him horns
 
 [Flight1.7]
 Pos  =2738.741,93.167, -2795.780
@@ -75,7 +75,7 @@ Pos  =2911.381,105.459, -3001.900
 Angle=-37.781,1.998, 9.762
 Time =1.853
 Delay=0.000
-Text =Мои пацаны пронюхали, что он кинул\nКорейца на брюлик, который\nты мне и принесешь
+Text =My boys got wind that he threw the\nKoreyets on the bruilik, which\nyou will bring to me
 #Во время создания было предложено\nиспользовать энергию прекрасного\nкамня для производства роботов.
 
 [Flight1.10]
@@ -97,7 +97,7 @@ Pos  =3143.848,80.411, -3391.995
 Angle=-45.268,1.852, -10.111
 Time =2.307
 Delay=0.000
-Text =Короче, метнись туда и принеси\nмне этот камушек
+Text =In short, rush over there\nand bring me this pebble
 
 [Flight1.13]
 Pos  =3190.310,104.561, -3442.158
@@ -118,7 +118,7 @@ Pos  =3304.165,125.917, -3627.504
 Angle=-22.410,-6.988, 0.331
 Time =2.747
 Delay=0.000
-Text =Там вокруг этого завода\nбычки пасутся
+Text =There gobies graze around\nthis plant
 
 [Flight1.16]
 Pos  =3348.722,130.099, -3694.525
@@ -139,7 +139,7 @@ Pos  =3493.399,135.590, -3723.381
 Angle=-80.821,-5.191, -0.001
 Time =1.373
 Delay=0.000
-Text =Кончай их не раздумывая
+Text =End them without hesitation
 
 [Flight1.19]
 Pos  =3533.458,133.303, -3728.962
@@ -161,7 +161,7 @@ Pos  =3684.712,106.120, -3743.579
 Angle=-152.381,-3.082, 0.390
 Time =0.300
 Delay=0.000
-Text =А вот и камушек.\nИди с богом
+Text =And here is the pebble. \nGo with God
 
 [Flight1.22]
 Pos  =3684.712,106.120, -3743.579

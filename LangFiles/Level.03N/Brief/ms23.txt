@@ -10,49 +10,49 @@ Pos  =2254.104,84.344, -2581.942
 Angle=47.575,-10.259, 0.000
 Time =3.685
 Delay=0.000
-Text =Садитесь в каток
+Text =Get into the roller
 
 [Flight1.1]
 Pos  =2245.541,82.244, -2589.768
 Angle=47.575,-10.259, 0.000
 Time =7.050
 Delay=0.000
-Text =На этот раз Вам предстоит решить\nсложную задачу
+Text =This time you have to solve a\n difficult problem
 
 [Flight1.2]
 Pos  =2210.798,82.475, -2634.496
 Angle=37.298,5.325, 0.012
 Time =6.580
 Delay=0.000
-Text = Необходимо захватить аэродром Чудово
+Text = It is necessary to capture\nthe Chudovo airfield
 
 [Flight1.3]
 Pos  =2113.792,100.895, -2682.242
 Angle=64.866,12.277, -0.007
 Time =4.206
 Delay=0.000
-Text =Вам поможет каток-проводник
+Text =The guide roller will help you
 
 [Flight1.4]
 Pos  =2049.369,116.164, -2710.102
 Angle=71.297,12.205, 0.386
 Time =9.724
 Delay=0.000
-Text =В пути не отставайте от проводника,\nиначе роботы его быстро подобьют
+Text =Do not lag behind the guide on the way,\notherwise robots will quickly destroy him
 
 [Flight1.5]
 Pos  =1851.271,154.116, -2768.406
 Angle=77.683,6.805, 0.000
 Time =4.666
 Delay=0.000
-Text =На аэродроме стоят самолеты
+Text =There are planes at the airport
 
 [Flight1.6]
 Pos  =1718.421,167.835, -2808.520
 Angle=67.979,2.086, -0.033
 Time =4.627
 Delay=0.000
-Text =Постарайтесь ими воспользоваться
+Text =Try to use them
 
 [Flight1.7]
 Pos  =1667.669,167.064, -2829.035

@@ -17,7 +17,7 @@ Pos  =2227.662,81.280, -2602.720
 Angle=27.215,-9.857, 0.000
 Time =2.494
 Delay=0.000
-Text =Садитесь в танк
+Text =Get into the tank
 
 [Flight1.2]
 Pos  =2209.003,76.155, -2639.003
@@ -31,21 +31,21 @@ Pos  =2152.339,86.859, -2672.448
 Angle=88.916,17.370, 0.054
 Time =6.800
 Delay=0.000
-Text =Вам предстоит дальний и опасный путь
+Text =You have a long and dangerous path ahead
 
 [Flight1.4]
 Pos  =2074.196,112.634, -2742.328
 Angle=38.808,11.953, 0.000
 Time =6.439
 Delay=0.000
-Text =Необходимо похитить артефакт\nна заводе Роботрон-2
+Text =It is necessary to steal the\nartifact from the Robotron-2 factory
 
 [Flight1.5]
 Pos  =1899.927,171.501, -2959.011
 Angle=38.808,11.953, 0.000
 Time =4.682
 Delay=0.000
-Text =По полям и холмам бродят роботы
+Text =Robots roam the fields and hills
 
 [Flight1.6]
 Pos  =1799.274,137.387, -3447.757
@@ -59,28 +59,28 @@ Pos  =1852.138,136.565, -3592.748
 Angle=-0.905,1.211, 7.894
 Time =6.079
 Delay=0.000
-Text =Роботы убивают всех кого встретят
+Text =Robots kill everyone they meet
 
 [Flight1.8]
 Pos  =1791.309,134.927, -3760.591
 Angle=26.976,12.947, 0.000
 Time =6.570
 Delay=0.000
-Text =Ваш единственный помощник танк-проводник
+Text =Your only assistant is the tank guide
 
 [Flight1.9]
 Pos  =1582.244,173.072, -3837.770
 Angle=78.264,-2.810, 0.000
 Time =6.148
 Delay=0.000
-Text =Охраняйте проводника в пути
+Text =Guard the guide on the way
 
 [Flight1.10]
 Pos  =1506.442,167.438, -3963.044
 Angle=1.500,-1.320, 0.461
 Time =5.278
 Delay=0.000
-Text =Чтобы сохранить его для боя в Роботрон-2
+Text =To save him for battle in Robotron-2
 
 [Flight1.11]
 Pos  =1555.051,164.109, -4105.415

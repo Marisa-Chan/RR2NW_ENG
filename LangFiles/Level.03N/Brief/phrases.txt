@@ -1,117 +1,117 @@
 [MissionComplete]
 number=9
-1=Задание выполнено.
-2=Ты сделал это!
-3=Молодец! У тебя все получилось!
-4=Круто!!! Ты просто орел!!
-5=Забавно... Мы думали,\n у тебя не получится...
-6=Ты замочил врагов! 
-7=Ура, ты победил!!!
-8=Салют, Наполеон!!!
-9=Враги повержены. Ты молодец.
+1=Mission complete.
+2=You did it!
+3=Well done! You did it!
+4=Cool!!! You're a big lad!!
+5=Funny... We thought\n you couldn't do it...
+6=You hit enemies! 
+7=Hurray, you won!!!
+8=Salute, Napoleon!!!
+9=The enemies are defeated.\nYou're doing fine.
 
 [MissionFailed]
 number=9
-1=Задание не выполнено.
-2=Тебе не удалось выполнить задачу.
-3=Ты провалил задание...
-4=Ты чем занимался?\n Чай пил?
-5=Ну что же ты так, а?
-6=Как ты мог так облажаться?
-7=Ну вот... Что мы теперь будем делать?
-8=Ты разочаровал нас.
-9=Эх ты, неудачник...
-10=Как ты мог? Вот обидно то\nа мы хотели наградить тебя.
+1=Task not completed.
+2=You failed to complete the task.
+3=You failed the task...
+4=What were you doing?\nDid you take a tea?
+5=Why are you so...?
+6=How could you screw up like this?
+7=Well... what are we going to do now?
+8=You disappointed us.
+9=Eh you, loser ...
+10=How could you? It's a shame that\nwe wanted to reward you.
 
 [Reward]
 number=5
-1=\nЗа твои заслуги\nмы награждаем тебя\nбриллиантом, обладающим чудесной\nсилой
-2=\nСмотри какая штука\nтебе досталась... \nТак держаить!!!
-3=\nВо, беги лови...\n Это теперь твое!!!
-4=\nПолучай свою награду\nМы рады сотрудничать\nс таким крутым воином.
-5=\nПрекрасно!! Получи что заслужил.
+1=\nFor your services\nwe reward you\nwith a wonderful\npowerful diamond
+2=\nLook what kind of thing \nyou got... \nKeep it up!!!
+3=\nHere, run and catch... \nIt's yours now !!!
+4=\nReceive your reward \nWe are delighted to\ncooperate with such\na tough warrior.
+5=\nPerfectly!! Get what you deserve.
 
 [Surrender]
 number=3
-1=Можешь вернуться на базу\nили попробовать все-таки\nвыполнить задание
-2=Попробуй еще раз...
-3=У тебя есть еще один шанс.
+1=You can return to the base\nor try to complete \nthe task
+2=Try again...
+3=You have one more chance.
 
 [Betray]
 number=3
-1=Ты вообще-то враг...но если\nно если докажешь что\nты за нас...
-2=Докажи что ты предан\nнашему делу, и мы\nвознаградим тебя.
-3=Только кровью - вражеской\nили своей ты можешь доказать\nнам свою лояльность.
+1=You are actually an enemy... \nbut if you prove that \nyou are for us...
+2=Prove that you are committed \nto our cause and we \nwill reward you.
+3=Only with the blood of the \nenemy or your own can you\n prove your loyalty to us.
 
 [Quick]
 number=6
-1=Как быстро ты умеешь работать!
-2=Какой ты скорый!
-3=Ты быстр, как молния.
-4=Когда ты успел?
-5=Ну дела... Я бы не\n успел так быстро!!
-6=Эко ты ловкий.
+1=How fast can you work!
+2=How fast you are!
+3=You are fast as lightning.
+4=When did you have time?
+5=Okay ... I wouldn't have \n done that fast !!
+6=How clever you are.
 
 [HardDamage]
 number=2
-1=Видимо это не так уж просто для тебя?
-2=Ты очень неловок...
+1=Apparently it's not that easy for you?
+2=You are very awkward ...
 
 [EasyDamage]
 number=2
-1=Пустяки!
-2=Ерунда! Прорвемся!
+1=Trivia!
+2=Nonsense! Let's break through!
 
 [GoodJob]
 number=7
-1=Все отлично. Прекрасная работа
-2=Замечательно
-3=Неплохо!
-4=Классно!
-5=Ловко!
-6=Быстро, а главное правильно!
-7=Я восхищен!!
+1=All perfectly. Great job
+2=Wonderful
+3=Not bad!
+4=Cool!
+5=Skillfully!
+6=Fast, and most importantly right!
+7=I am impressed!!
 
 
 [Nasty]
 number=1
-1=У тебя скверные методы,\nно хорошие результаты.
+1=Your methods are bad,\nbut good results.
 
 [Failed]
 number=2
-1=Ты был хорош, но у тебя ничего\nне вышло. Мы разочарованы.
-2=Ты не смог. Будь аккуратнее\nв будущем.
+1=You were good but failed.\nWe're disappointed.
+2=You couldn't. Be careful\nin the future.
 
 [FailedAndBetrayed]
 number=1
-1=Иди и в бою докажи\nсвою преданость!
+1=Go and prove your\nloyalty in battle!
 
 [FastRunaway]
 number=3
-1=Ты все еще здесь? Отправляйся в бой!
-2=В бой быстрее!!
-3=Уматывай отсюда!!!
+1=Are you still here? Go to battle!
+2=Faster into battle!!
+3=Get out of here!!!
 
 [KilledToManyFriends]
 number=1
-1=Неужели ты не можешь различать\nдрузей и врагов?
+1=Can't you tell the difference\nbetween friends and enemies?
 
 [MissionNotCompleted]
 number=3
-1=Ты еще не выполнил возложенной\nна тебя задачи!
-2=Миссия пока не выполнена
-3=Ты еще сдесь? А должен\nбыть - там.
+1=You have not yet completed\nthe task entrusted to you!
+2=Mission has not yet\nbeen completed
+3=Are you still here? And it\nshould be there.
 
 [Heal]
 number=1
-1=Ты ранен, мы оказали\nтебе первую помощь
+1=You are injured, we\ngave you first aid
 
 [Rearming]
 number=1
-1=Мы перезарядили оружие\nв твоей машине
+1=We have reloaded weapons \nin your car
 
 [NewVehicle]
 number=1
-1=Новый транспорт ждет тебя снаружи
+1=New transport awaits you outside
 
 

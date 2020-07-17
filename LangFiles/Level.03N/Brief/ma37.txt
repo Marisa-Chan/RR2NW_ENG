@@ -10,7 +10,7 @@ Pos  =2737.814,67.639, -2634.355
 Angle=-94.789,0.090, 0.001
 Time =2.733
 Delay=0.000
-Text =Слышь, брателло! Садись чиста в джип\nи канай в Kozlishevo-Tovarnaya
+Text =Hear, Bro! Getn jeep\nand get out to Kozlishevo-Tovarnaya
 TextDely=6
 
 [Flight1.1]
@@ -32,7 +32,7 @@ Pos  =2717.457,70.833, -2629.784
 Angle=126.131,0.038, -12.164
 Time =3.859
 Delay=0.000
-Text =Там на заброшенном вокзале танков как грязи
+Text =There, in an abandoned train station, tanks like mud
 
 [Flight1.4]
 Pos  =2688.459,77.426, -2625.555
@@ -53,7 +53,7 @@ Pos  =2626.314,84.310, -2628.029
 Angle=98.530,-0.756, 4.427
 Time =1.442
 Delay=0.000
-Text =Они остались на чиста платформах\nс довоенного времени.
+Text =They have remained on jst\nplatforms since pre-war times.
 
 [Flight1.7]
 Pos  =2599.765,84.179, -2625.158
@@ -74,7 +74,7 @@ Pos  =2548.141,83.223, -2568.679
 Angle=-174.752,-0.485, 7.791
 Time =1.135
 Delay=0.000
-Text =Мы должны там вокзал прибрать к рукам,\nэти танки нам для этой мазы понадобятся 
+Text =We have to get our hands on the station\nthere, we will need these tanks for this dough
 
 [Flight1.10]
 Pos  =2550.593,82.892, -2529.983
@@ -95,7 +95,7 @@ Pos  =2535.792,87.154, -2338.911
 Angle=-167.367,-0.455, 12.628
 Time =1.868
 Delay=0.000
-Text =Грохни всех роботов вокруг вокзала
+Text =Bang all the robots around the station
 
 [Flight1.13]
 Pos  =2550.788,86.702, -2284.161
@@ -123,7 +123,7 @@ Pos  =2695.084,107.400, -2117.498
 Angle=-147.860,-0.383, -5.149
 Time =2.376
 Delay=0.000
-Text =После этого танки твои
+Text =After that the tanks are yours
 
 [Flight1.17]
 Pos  =2752.261,130.612, -2029.102
@@ -151,7 +151,7 @@ Pos  =2881.217,145.841, -1763.453
 Angle=-145.567,-4.033, 4.482
 Time =4.024
 Delay=0.000
-Text =Езжай за Вованом на джипе, он тебя в\nKozlishevo-Tovarnaya без базара приведет
+Text =Follow Vovan in a jeep, he will lead you\nto Kozlishevo-Tovarnaya without a choppin' it up
 
 [Flight1.21]
 Pos  =3000.232,127.325, -1660.418
@@ -200,7 +200,7 @@ Pos  =3508.185,116.110, -1623.839
 Angle=-85.290,-1.453, -4.835
 Time =6.276
 Delay=0.000
-Text =А вот и вокзал с танками
+Text =And here is the station with tanks
 TextDelay=16
 
 [Flight1.28]

@@ -10,7 +10,7 @@ func void CreateProjectA37()
  nNode:=p_AddSuccessKill(nNode,"r.unit.ma37.rb06");
  nNode:=p_SetMissionSummary(
   nNode,"Kozlishevo-Tovarnaya (A37)",
-  "Вы должны захватить контроль$над Kozlishevo-Tovarnaya.$Семь роботов вокруг вокзала$должны быть убиты.",
+  "You must take control$on Kozlishevo-Tovarnaya.$Seven robots around the train$station must be killed.",
   "Route/A37/ms.rt",ConvertColor(255,0,0),20,2
  );
  nNode:=p_AddRunScript(nNode,"Brief/ma37.sc");
@@ -31,7 +31,7 @@ func void CreateProjectA38()
  nNode:=p_AddSuccessKill(nNode,"r.unit.ma38.ap01");
  nNode:=p_SetMissionSummary(
   nNode,"Domobabovo Airport (A38)",
-  "Вы должны захватить$контроль над Domobabovo$Airport. Пять ходячих и$два летающих робота$должны быть уничтожены.",
+  "You must take control$of Domobabovo Airport.$Five walking robots and$two flying robots$must be destroyed.",
   "Route/A38/ms.rt",ConvertColor(255,0,0),20,2
  );
  nNode:=p_AddRunScript(nNode,"Brief/ma38.sc");
@@ -52,8 +52,8 @@ func void CreateProjectA39()
  nNode:=p_AddSuccessKill(nNode,"r.unit.ma39.ap01");
  nNode:=p_GiveArtefact(nNode);
  nNode:=p_SetMissionSummary(
-  nNode,"Захват Komarik (A39)",
-  "Вы должны захватить контроль$над аэродромом в Komarik. Пять$ходячих и два летающих робота$должны быть уничтожены.",
+  nNode,"Taking Komarik (A39)",
+  "You must take control of the$Komarik airfield. Five$walking and two flying robots$must be destroyed.",
   "Route/A39/ms.rt",ConvertColor(0,200,0),20,2
  );
  nNode:=p_AddRunScript(nNode,"Brief/ma39.sc");
@@ -68,7 +68,7 @@ func void CreateProjectA40()
  nNode:=p_AddSuccessReached(nNode,"Vehicle.Default",3702.90,-3678.45,10);
  nNode:=p_SetMissionSummary(
   nNode,"Robotron-3 (A40)",
-  "Вам следует выкрасть артефакт$с завода в Robotron-3",
+  "You should steal the artifact$from the factory in Robotron-3",
   "Route/A40/ms.rt",ConvertColor(255,0,0),20,2
  );
  nNode:=p_AddRunScript(nNode,"Brief/ma40.sc");
@@ -83,7 +83,7 @@ func void CreateProjectA41()
  nNode:=p_AddSuccessReached(nNode,"Vehicle.Default",2764.705,-3843.681,10);
  nNode:=p_SetMissionSummary(
   nNode,"Gibloe Mesto (A41)",
-  "Вам следует выкрасть артефакт$из музея в Gibloe Mesto",
+  "You should steal the artifact$from the museum at Gibloe Mesto",
   "Route/A41/ms.rt",ConvertColor(255,0,0),20,2
  );
  nNode:=p_AddRunScript(nNode,"Brief/ma41.sc");
@@ -102,8 +102,8 @@ func void CreateProjectS22()
  nNode:=p_AddSuccessKill(nNode,"r.unit.ms22.rb03");
  nNode:=p_GiveArtefact(nNode);
  nNode:=p_SetMissionSummary(
-  nNode,"Бой на вокзале (S22)",
-  "Вы должны уничтожить$четверых роботов.",
+  nNode,"Fight at the train station (S22)",
+  "You must destroy$four robots.",
   "Route/S22/ms.rt",ConvertColor(0,200,0),10,2
  );
  nNode:=p_AddRunScript(nNode,"Brief/ms22.sc");
@@ -124,8 +124,8 @@ func void CreateProjectS23()
  nNode:=p_AddSuccessKill(nNode,"r.unit.ms23.rb10");
  nNode:=p_GiveArtefact(nNode);
  nNode:=p_SetMissionSummary(
-  nNode,"Аэродром Чудово (S23)",
-  "Вы должны уничтожить$семь роботов.",
+  nNode,"Chudovo airfield(S23)",
+  "You must destroy$seven robots.",
   "Route/S23/ms.rt",ConvertColor(0,200,0),20,2
  );
  nNode:=p_AddRunScript(nNode,"Brief/ms23.sc");
@@ -140,8 +140,8 @@ func void CreateProjectS24()
  nNode:=p_AddSuccessReached(nNode,"Vehicle.Default",1639.62,-4176.38,10);
  //nNode:=p_GiveArtefact(nNode);
  nNode:=p_SetMissionSummary(
-  nNode,"Aртефакт в Роботрон-2 (S24)",
-  "Вы должны захватить$артефакт в Роботрон-2.",
+  nNode,"Artifact in Robotron-2 (S24)",
+  "You must capture the$artifact in Robotron-2.",
   "Route/S24/ms.rt",ConvertColor(0,200,0),20,2
  );
  nNode:=p_AddRunScript(nNode,"Brief/ms24.sc");
@@ -157,8 +157,8 @@ func void CreateProjectS25()
  nNode:=p_AddSuccessKill(nNode,"i.unit.ms25.jp01");
  nNode:=p_AddSuccessKill(nNode,"i.unit.ms25.jp02");
  nNode:=p_SetMissionSummary(
-  nNode,"Поединок с мародерами(S25)",
-  "Вы должны уничтожить на арене$Salochki Games три джипа.",
+  nNode,"Duel with marauders(S25)",
+  "You must destroy three jeeps$in the Salochki Games arena.",
   "Route/S25/ms.rt",ConvertColor(255,0,0),10,2
  );
  nNode:=p_AddRunScript(nNode,"Brief/ms25.sc");
@@ -174,8 +174,8 @@ func void CreateProjectS26()
  nNode:=p_AddSuccessKill(nNode,"r.unit.ms26.rb01");
  nNode:=p_AddSuccessKill(nNode,"r.unit.ms26.rb02");
  nNode:=p_SetMissionSummary(
-  nNode,"Поединок с роботами(S26)",
-  "Вы должны уничтожить на арене$Salochki Games три робота.",
+  nNode,"Duel with robots(S26)",
+  "You must destroy three robots$in the Salochki Games arena.",
   "Route/S26/ms.rt",ConvertColor(255,0,0),10,2
  );
  nNode:=p_AddRunScript(nNode,"Brief/ms26.sc");
@@ -192,7 +192,7 @@ func void CreateProject_Race()
 {
 	nNode:=p_AddPlayBriefing(s_PNodeNULL(),"Brief/Race/race_demo.txt");
 	nNode:=p_AddSuccessKill(nNode,"Race.Flag");
-	nNode:=p_SetMissionSummary(nNode,"Гонки на выживание.","Выиграть главный приз",
+	nNode:=p_SetMissionSummary(nNode,"Survival racing.","Win the grand prize",
 				         "Route/Race/race_arrow.rt",ConvertColor(255,0,0),1,1);
 
 	nNode:=p_AddFiledReached	(nNode,"Raider.01",2721,-2330,50);
